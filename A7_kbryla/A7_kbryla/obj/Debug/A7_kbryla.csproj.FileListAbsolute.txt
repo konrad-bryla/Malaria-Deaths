@@ -1,0 +1,32 @@
+C:\Users\konra\source\assignments\A7_kbryla\A7_kbryla\bin\Debug\Deaths by Country.mdb
+C:\Users\konra\source\assignments\A7_kbryla\A7_kbryla\bin\Debug\A7_kbryla.exe.config
+C:\Users\konra\source\assignments\A7_kbryla\A7_kbryla\bin\Debug\A7_kbryla.exe
+C:\Users\konra\source\assignments\A7_kbryla\A7_kbryla\bin\Debug\A7_kbryla.pdb
+C:\Users\konra\source\assignments\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.csprojAssemblyReference.cache
+C:\Users\konra\source\assignments\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.Form1.resources
+C:\Users\konra\source\assignments\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.Properties.Resources.resources
+C:\Users\konra\source\assignments\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.csproj.GenerateResource.cache
+C:\Users\konra\source\assignments\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.exe
+C:\Users\konra\source\assignments\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.pdb
+C:\Users\kbryla\Desktop\A7_kbryla\A7_kbryla\bin\Debug\Deaths by Country.mdb
+C:\Users\kbryla\Desktop\A7_kbryla\A7_kbryla\bin\Debug\A7_kbryla.exe.config
+C:\Users\kbryla\Desktop\A7_kbryla\A7_kbryla\bin\Debug\A7_kbryla.exe
+C:\Users\kbryla\Desktop\A7_kbryla\A7_kbryla\bin\Debug\A7_kbryla.pdb
+C:\Users\kbryla\Desktop\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.csprojAssemblyReference.cache
+C:\Users\kbryla\Desktop\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.Form1.resources
+C:\Users\kbryla\Desktop\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.Properties.Resources.resources
+C:\Users\kbryla\Desktop\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.csproj.GenerateResource.cache
+C:\Users\kbryla\Desktop\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.csproj.CoreCompileInputs.cache
+C:\Users\kbryla\Desktop\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.exe
+C:\Users\kbryla\Desktop\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.pdb
+C:\Users\konra\OneDrive\Desktop\A7_kbryla\A7_kbryla\bin\Debug\Deaths by Country.mdb
+C:\Users\konra\OneDrive\Desktop\A7_kbryla\A7_kbryla\bin\Debug\A7_kbryla.exe.config
+C:\Users\konra\OneDrive\Desktop\A7_kbryla\A7_kbryla\bin\Debug\A7_kbryla.exe
+C:\Users\konra\OneDrive\Desktop\A7_kbryla\A7_kbryla\bin\Debug\A7_kbryla.pdb
+C:\Users\konra\OneDrive\Desktop\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.csproj.AssemblyReference.cache
+C:\Users\konra\OneDrive\Desktop\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.Form1.resources
+C:\Users\konra\OneDrive\Desktop\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.Properties.Resources.resources
+C:\Users\konra\OneDrive\Desktop\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.csproj.GenerateResource.cache
+C:\Users\konra\OneDrive\Desktop\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.csproj.CoreCompileInputs.cache
+C:\Users\konra\OneDrive\Desktop\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.exe
+C:\Users\konra\OneDrive\Desktop\A7_kbryla\A7_kbryla\obj\Debug\A7_kbryla.pdb
